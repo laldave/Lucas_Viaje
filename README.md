@@ -21,17 +21,9 @@
 El protocolo IMAP sincroniza los correos directamente en el servidor, permitiendo consultar y gestionar la misma bandeja desde varios dispositivos en tiempo real. En cambio, POP3 descarga los mensajes a un único dispositivo local y, por defecto, los borra del servidor, por lo que no se mantienen sincronizados entre diferentes equipos.
 
 ### 3. Datos del mensaje original
-- **SPF:** PASS (IP: 209.85.220.41)
-- **DKIM:** PASS (Dominio: elpuig-xeill-net.20260707.gappssmtp.com)
+- **SPF:** PASS (IP: de google)
+- **DKIM:** PASS (Dominio: elpuig.xeill.net)
 - **DMARC:** PASS
-
-**Saltos de servidor (4 servidores):**
-1. Origen interno Google: `2002:a17:907:2d28:b0:c50:53cb:69fe` (03:32:09)
-2. Servidor de salida Google: `mail-sor-f41.google.com` / `209.85.220.41` (03:32:09)
-3. Procesamiento interno Google: `2002:a17:907:1b16:b0:c3f:7e8:235d` (03:32:10)
-4. Entrega final al buzón: `2002:a05:6638:ad50:b0:620:3445:ffc7` para `laldave@elpuig.xeill.net` (03:32:10)
-
-
 
 ### 4. Tabla de pruebas (A5.2)
 | Qué pruebas | Cómo lo pruebas | Qué esperas | Qué ha pasado |
@@ -43,7 +35,7 @@ El protocolo IMAP sincroniza los correos directamente en el servidor, permitiend
 | 5. SPF, DKIM y DMARC | Pulsando en "Mostrar original" en el correo recibido | Que los tres pongan PASS | Los tres salen como PASS |
 | 6. Servidores | Mirando las líneas `Received` en el original | Ver por cuántos servidores ha pasado | Ha pasado por 4 servidores |
 
-[Ver documento: Fase 1 filtros y validación](./Fase%201%20filtros%20validacion.pdf)
+
 
 ---
 
