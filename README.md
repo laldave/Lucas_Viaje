@@ -20,6 +20,8 @@
 ### 2. Diferencia entre IMAP y POP3
 El protocolo IMAP sincroniza los correos directamente en el servidor, permitiendo consultar y gestionar la misma bandeja desde varios dispositivos en tiempo real. En cambio, POP3 descarga los mensajes a un único dispositivo local y, por defecto, los borra del servidor, por lo que no se mantienen sincronizados entre diferentes equipos.
 
+https://docs.google.com/document/d/1nIOFQVvRgHa-kPrlXNWAYicLxtT7HF6pouiO_5Q6MAw/edit?usp=sharing
+
 ### 3. Datos del mensaje original
 - **SPF:** PASS (IP: de google)
 - **DKIM:** PASS (Dominio: elpuig.xeill.net)
