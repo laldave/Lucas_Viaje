@@ -22,12 +22,17 @@ El protocolo IMAP sincroniza los correos directamente en el servidor, permitiend
 
 https://docs.google.com/document/d/1nIOFQVvRgHa-kPrlXNWAYicLxtT7HF6pouiO_5Q6MAw/edit?usp=sharing
 
-### 3. Datos del mensaje original
+A5.2
+
+### 1.Diferencia de IMAP y POP con mis palabras
+- **IMAP sincroniza los correos directamente con el servidor, permitiendo ver los mensajes y cambios en tiempo real desde varios dispositivos a la vez. En cambio, POP3 descarga los correos en un único dispositivo local y, por defecto, los borra del servidor.
+
+  2. Datos del mensaje original
 - **SPF:** PASS (IP: de google)
 - **DKIM:** PASS (Dominio: elpuig.xeill.net)
 - **DMARC:** PASS
 
-### 4. Tabla de pruebas (A5.2)
+### 2. Tabla de pruebas (A5.2)
 | Qué pruebas | Cómo lo pruebas | Qué esperas | Qué ha pasado |
 | :--- | :--- | :--- | :--- |
 | 1. Acceso IMAP | Mirando la configuración de correo POP/IMAP en Gmail | Que esté activado | Está activado |
