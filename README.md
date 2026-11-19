@@ -31,6 +31,8 @@ El protocolo IMAP sincroniza los correos directamente en el servidor, permitiend
 3. Procesamiento interno Google: `2002:a17:907:1b16:b0:c3f:7e8:235d` (03:32:10)
 4. Entrega final al buzón: `2002:a05:6638:ad50:b0:620:3445:ffc7` para `laldave@elpuig.xeill.net` (03:32:10)
 
+![Enunciado Fase 1](Captura%20desde%202026-11-19%2013-27-39.png)
+
 ### 4. Tabla de pruebas (A5.2)
 | Qué pruebas | Cómo lo pruebas | Qué esperas | Qué ha pasado |
 | :--- | :--- | :--- | :--- |
