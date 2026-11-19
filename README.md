@@ -4,12 +4,16 @@
 
 ## A5.1 - Filtres al Gmail
 
-| Qué envías | Qué esperas | Qué ha pasado |
+### 1. Llistat de sis eines de Google (eina, propòsit, target)
+
+| Eina | Propòsit | Target (Públic objectiu) |
 | :--- | :--- | :--- |
-| 1. Correo con `puig` en el asunto | Que llegue con la etiqueta verde `institut` | Ha llegado con la etiqueta verde `institut` aplicada |
-| 2. Correo con `publicitat` | Que no salga en recibidos y vaya a `promocions` | No ha salido en recibidos y ha ido directo a `promocions` |
-| 3. Correo de dos profesores | Que se marque siempre como importante | Se ha marcado automáticamente como importante |
-| 4. Correo desde otra cuenta | Que responda solo con `Estic de vacances!` | Se ha enviado la respuesta automática correctamente |
+| **Gmail** | Servei de correu electrònic per enviar, rebre i organitzar missatges. | Usuaris particulars, estudiants i empreses. |
+| **Google Drive** | Emmagatzematge al núvol per desar, compartir i sincronitzar arxius. | Estudiants, professionals i equips de treball. |
+| **Google Calendar** | Agenda i calendari digital per planificar esdeveniments, reunions i recordatoris. | Usuaris particulars, docents i professionals. |
+| **Google Docs** | Processador de textos en línia que permet l'edició col·laborativa en temps real. | Alumnes, escriptors, administratius i equips. |
+| **Google Meet** | Plataforma de videoconferències i reunions virtuals. | Empreses, centres educatius i usuaris particulars. |
+| **Google Classroom** | Gestor d'aules virtuals per assignar, lliurar i avaluar tasques acadèmiques. | Professors i estudiants de centres educatius. |
 
 ---
 
@@ -25,9 +29,9 @@
 El protocolo IMAP sincroniza los correos directamente en el servidor, permitiendo consultar y gestionar la misma bandeja desde varios dispositivos en tiempo real. En cambio, POP3 descarga los mensajes a un único dispositivo local y, por defecto, los borra del servidor, por lo que no se mantienen sincronizados entre diferentes equipos.
 
 ### 3. Datos del mensaje original
-* **SPF:** PASS (IP: 209.85.220.41)
-* **DKIM:** PASS (Dominio: elpuig-xeill-net.20260707.gappssmtp.com)
-* **DMARC:** PASS
+- **SPF:** PASS (IP: 209.85.220.41)
+- **DKIM:** PASS (Dominio: elpuig-xeill-net.20260707.gappssmtp.com)
+- **DMARC:** PASS
 
 **Saltos de servidor (4 servidores):**
 1. Origen interno Google: `2002:a17:907:2d28:b0:c50:53cb:69fe` (03:32:09)
@@ -49,17 +53,17 @@ El protocolo IMAP sincroniza los correos directamente en el servidor, permitiend
 
 ## A5.3 - Viaje de 7 días (Google Maps y Calendar)
 
-* **Destino:** 24 Horas de Le Mans (Francia), ida y vuelta desde Barcelona
-* **Fechas:** Del 9 al 15 de julio de 2028
-* **Calendario:** CALENDARI_LUCAS_ALDAVE
-* **Enlace Google Maps:** (Pega aquí tu enlace de Google Maps)
+- **Destino:** 24 Horas de Le Mans (Francia), ida y vuelta desde Barcelona
+- **Fechas:** Del 9 al 15 de julio de 2028
+- **Calendario:** CALENDARI_LUCAS_ALDAVE
+- **Enlace Google Maps:** (Pega aquí tu enlace de Google Maps)
+- **Enlace Calendario:** [CALENDARI_LUCAS_ALDAVE](https://calendar.google.com/calendar/embed?src=laldave%40elpuig.xeill.net&ctz=Europe%2FMadrid&dates=20280709%2F20280716&mode=WEEK)
 
 ### Presupuesto (Máximo 1.500 €)
-* **Vuelo ida y vuelta Barcelona – Lyon (Iberia):** 83 €
-* **Hotel Lyon (Lagrange Apart'HOTEL, 2 noches):** 110 €
-* **Traslados y Tren TGV París – Le Mans (ida y vuelta):** 180 €
-* **Entrada Oficial Semana Completa + Grada:** 219 €
-* **Hotel Le Mans (Eklo Hôtels, 5 noches a 37 €):** 185 €
-* **Comidas, bebida y extras:** 280 €
-* **Total:** 1.057 €
-* Calendario: "https://calendar.google.com/calendar/embed?src=laldave%40elpuig.xeill.net&ctz=Europe%2FMadrid&dates=20280709%2F20280716&mode=WEEK"
+- **Vuelo ida y vuelta Barcelona – Lyon (Iberia):** 83 €
+- **Hotel Lyon (Lagrange Apart'HOTEL, 2 noches):** 110 €
+- **Traslados y Tren TGV París – Le Mans (ida y vuelta):** 180 €
+- **Entrada Oficial Semana Completa + Grada:** 219 €
+- **Hotel Le Mans (Eklo Hôtels, 5 noches a 37 €):** 185 €
+- **Comidas, bebida y extras:** 280 €
+- **Total:** 1.057 €
