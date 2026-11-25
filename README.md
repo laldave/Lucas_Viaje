@@ -51,14 +51,8 @@ A5.2
 - **Destino:** 24 Horas de Le Mans (Francia), ida y vuelta desde Barcelona
 - **Fechas:** Del 9 al 15 de julio de 2028
 - **Calendario:** CALENDARI_LUCAS_ALDAVE
-- **Enlace Google Maps:** [Presupuesto viaje](https://docs.google.com/spreadsheets/d/15ZpR5sizKqRl2Q-32NgbJl5P0Q300DZPodX3to7W_GE/edit?usp=sharing)
+- **Enlace Google Maps:** [google maps](https://www.google.com/maps/dir/Barcelona/Lagrange+apart'HOTEL+-+Lyon+Lumi%C3%A8re,+81-85+Cr+Albert+Thomas,+69003+Lyon,+Francia/Par%C3%ADs,+Francia/Eklo+H%C3%B4tels+Le+Mans,+34+Rue+Louis+de+Broglie,+72000+Le+Mans,+Francia/Circuito+de+la+Sarthe,+Pl.+Luigi+Chinetti,+72019+Le+Mans,+Francia/Par%C3%ADs,+Francia/Lyon,+Francia/Barcelona/@44.9719851,2.6983999,6.58z/data=!4m49!4m48!1m5!1m1!1s0x12a49816718e30e5:0x44b0fb3d4f47660a!2m2!1d2.1686496!2d41.3874374!1m5!1m1!1s0x47f4ea75861f68eb:0xf7ca86fc95786b4!2m2!1d4.868867!2d45.7465143!1m5!1m1!1s0x47e66e1f06e2b70f:0x40b82c3688c9460!2m2!1d2.3513765!2d48.8575475!1m5!1m1!1s0x47e28615246f63eb:0xe1f68e93886e81d0!2m2!1d0.1451013!2d48.0177274!1m5!1m1!1s0x47e28fad5242c195:0xe9ae326c6c02c174!2m2!1d0.2079771!2d47.9559971!1m5!1m1!1s0x47e66e1f06e2b70f:0x40b82c3688c9460!2m2!1d2.3513765!2d48.8575475!1m5!1m1!1s0x47f4ea516ae88797:0x408ab2ae4bb21f0!2m2!1d4.835659!2d45.764043!1m5!1m1!1s0x12a49816718e30e5:0x44b0fb3d4f47660a!2m2!1d2.1686496!2d41.3874374?entry=ttu&g_ep=EgoyMDI2MTEyMi4wIKXMDSoASAFQAw%3D%3D)
 - **Enlace Calendario:** [CALENDARI_LUCAS_ALDAVE](https://calendar.google.com/calendar/embed?src=laldave%40elpuig.xeill.net&ctz=Europe%2FMadrid&dates=20280709%2F20280716&mode=WEEK)
 
 ### Presupuesto (Máximo 1.500 €)
-- **Vuelo ida y vuelta Barcelona – Lyon (Iberia):** 83 €
-- **Hotel Lyon (Lagrange Apart'HOTEL, 2 noches):** 110 €
-- **Traslados y Tren TGV París – Le Mans (ida y vuelta):** 180 €
-- **Entrada Oficial Semana Completa + Grada:** 219 €
-- **Hotel Le Mans (Eklo Hôtels, 5 noches a 37 €):** 185 €
-- **Comidas, bebida y extras:** 280 €
-- **Total:** 1.057 €
+- [Presupuesto viaje](https://docs.google.com/spreadsheets/d/15ZpR5sizKqRl2Q-32NgbJl5P0Q300DZPodX3to7W_GE/edit?usp=sharing)
