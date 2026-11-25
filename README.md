@@ -51,7 +51,7 @@ A5.2
 - **Destino:** 24 Horas de Le Mans (Francia), ida y vuelta desde Barcelona
 - **Fechas:** Del 9 al 15 de julio de 2028
 - **Calendario:** CALENDARI_LUCAS_ALDAVE
-- **Enlace Google Maps:** (Pega aquí tu enlace de Google Maps)
+- **Enlace Google Maps:** [Presupuesto viaje](https://docs.google.com/spreadsheets/d/15ZpR5sizKqRl2Q-32NgbJl5P0Q300DZPodX3to7W_GE/edit?usp=sharing)
 - **Enlace Calendario:** [CALENDARI_LUCAS_ALDAVE](https://calendar.google.com/calendar/embed?src=laldave%40elpuig.xeill.net&ctz=Europe%2FMadrid&dates=20280709%2F20280716&mode=WEEK)
 
 ### Presupuesto (Máximo 1.500 €)
