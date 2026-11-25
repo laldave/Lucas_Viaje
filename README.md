@@ -20,7 +20,7 @@
 ### 2. Diferencia entre IMAP y POP3
 El protocolo IMAP sincroniza los correos directamente en el servidor, permitiendo consultar y gestionar la misma bandeja desde varios dispositivos en tiempo real. En cambio, POP3 descarga los mensajes a un único dispositivo local y, por defecto, los borra del servidor, por lo que no se mantienen sincronizados entre diferentes equipos.
 
-https://docs.google.com/document/d/1nIOFQVvRgHa-kPrlXNWAYicLxtT7HF6pouiO_5Q6MAw/edit?usp=sharing
+[Fase 1](https://docs.google.com/document/d/1nIOFQVvRgHa-kPrlXNWAYicLxtT7HF6pouiO_5Q6MAw/edit?usp=sharing)
 
 A5.2
 
@@ -41,6 +41,8 @@ A5.2
 | 4. Respuesta | Respondiendo desde la cuenta B a la A | Que la respuesta llegue a la cuenta A | Ha llegado correctamente a la cuenta A |
 | 5. SPF, DKIM y DMARC | Pulsando en "Mostrar original" en el correo recibido | Que los tres pongan PASS | Los tres salen como PASS |
 | 6. Servidores | Mirando las líneas `Received` en el original | Ver por cuántos servidores ha pasado | Ha pasado por 4 servidores |
+
+[Fase 2 ](https://docs.google.com/document/d/1xhK5atr3HfGcM697cGaBPgYq702--pM9osQZhwrEJeE/edit?usp=sharing)
 
 
 
