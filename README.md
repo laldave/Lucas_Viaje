@@ -58,3 +58,4 @@ A5.2
 
 ### Presupuesto (Máximo 1.500 €)
 - [Presupuesto viaje](https://docs.google.com/spreadsheets/d/15ZpR5sizKqRl2Q-32NgbJl5P0Q300DZPodX3to7W_GE/edit?usp=sharing)
+- [Fase 3](https://docs.google.com/document/d/1DNArW3Sa4cS2-fjxIhQRV4kb7E5uJvgf7DjtaqHeSzQ/edit?usp=sharing)
